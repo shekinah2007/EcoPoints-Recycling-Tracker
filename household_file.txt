@@ -1,0 +1,2 @@
+1|Jackson|New York|2026-11-02|240
+2|Little|Florida|2026-11-02|320
